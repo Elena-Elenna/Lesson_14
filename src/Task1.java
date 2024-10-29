@@ -14,7 +14,7 @@ public class Task1 {
         int c = 2;
         int d = 3;
         int summ = (a+b+c+d)/4;
-        System.out.println("Summa: "+summa);
+        System.out.println("Summa: "+ summ);
 
         int ostat = (a+b+c+d)%4;
         System.out.println("Ostatok: "+ostat);
